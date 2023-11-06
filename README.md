@@ -1,9 +1,8 @@
-# Automated Docker Containers
 
+# Automated Docker Containers
 
 # Overview:
 The Docker Container Setup project aims to provide an automated script for setting up Docker containers based on user preferences. The script allows users to choose an operating system (Ubuntu, openSUSE, CentOS, or a custom image) and optionally install software within the container. The script handles the installation and configuration of Docker, pulls the specified Docker image, and customizes the container based on the user's choices.
-
 
 # User Stories:
 - As a developer, I want to easily set up Docker containers with different operating systems to test my applications in various environments.
@@ -16,8 +15,24 @@ The Docker Container Setup project aims to provide an automated script for setti
 
 - As a beginner in Docker, I want a user-friendly script that guides me through the process of creating and customizing Docker containers without requiring extensive knowledge of Docker commands.
 
-# Team Member:
-- Faris AlJohani
-- Muhannad Alzahrani
-- Abdulaziz Jarman
+# Demo:
+![The script will automatically download and install Docker.](https://files.filterhost.net/index.php/s/TqgZRg6HZKtxxon)
+
+![The script will ask the user which operating system is desired.](https://files.filterhost.net/index.php/s/rp82Rtx3NGbXStN)
+
+![Or, the user can select a custom image from Docker Hub.](https://files.filterhost.net/index.php/s/zLKjWTdao974fFS)
+
+![If the user chooses Ubuntu as the operating system, the script will list the available versions.](https://files.filterhost.net/index.php/s/tcSG9DSqp3FeL5y)
+
+![If the user chooses openSUSE as the operating system, the script will list the available versions.](https://files.filterhost.net/index.php/s/xEmb2a5LekNokLo)
+
+![If the user chooses CentOS as the operating system, the script will list the available versions.](https://files.filterhost.net/index.php/s/xdDzMeineRX9Nqx)
+
+![Then, the script will ask the user if they want to install a specific software or tool from the list, depending on the selected operating system, such as Ubuntu or openSUSE.](https://files.filterhost.net/index.php/s/c247qd9YCgnDE3D)
+![Similarly, if CentOS is selected.](https://files.filterhost.net/index.php/s/J4ZSYiseTxgYSJz)
+
+![Following this, the container will begin to be configured and set up.](https://files.filterhost.net/index.php/s/77BcQdNQ79jwdEj)
+
+![Once completed, the container will be ready for use. The user should enter the provided command to log into the container.](https://files.filterhost.net/index.php/s/Ec53d7dHcfkYntH)
+
  
