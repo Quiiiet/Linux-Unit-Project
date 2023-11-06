@@ -17,32 +17,33 @@ The Docker Container Setup project aims to provide an automated script for setti
 
 # Demo:
 The script will automatically download and install Docker.
-![](https://files.filterhost.net/index.php/s/TqgZRg6HZKtxxon/preview)
+![1](https://files.filterhost.net/index.php/s/TqgZRg6HZKtxxon/preview)
 
 The script will ask the user which operating system is desired.
-![](https://files.filterhost.net/index.php/s/rp82Rtx3NGbXStN/preview)
+![2](https://files.filterhost.net/index.php/s/rp82Rtx3NGbXStN/preview)
 
 Or, the user can select a custom image from Docker Hub.
-![](https://files.filterhost.net/index.php/s/zLKjWTdao974fFS/preview)
+![3](https://files.filterhost.net/index.php/s/zLKjWTdao974fFS/preview)
 
 If the user chooses Ubuntu as the operating system, the script will list the available versions.
-![](https://files.filterhost.net/index.php/s/tcSG9DSqp3FeL5y/preview)
+![4](https://files.filterhost.net/index.php/s/tcSG9DSqp3FeL5y/preview)
 
 If the user chooses openSUSE as the operating system, the script will list the available versions.
-![](https://files.filterhost.net/index.php/s/xEmb2a5LekNokLo/preview)
+![5](https://files.filterhost.net/index.php/s/xEmb2a5LekNokLo/preview)
 
 If the user chooses CentOS as the operating system, the script will list the available versions.
-![](https://files.filterhost.net/index.php/s/xdDzMeineRX9Nqx/preview)
+![6](https://files.filterhost.net/index.php/s/xdDzMeineRX9Nqx/preview)
 
 Then, the script will ask the user if they want to install a specific software or tool from the list, depending on the selected operating system, such as Ubuntu or openSUSE.
-![](https://files.filterhost.net/index.php/s/c247qd9YCgnDE3D/preview)
+![7](https://files.filterhost.net/index.php/s/c247qd9YCgnDE3D/preview)
+
 Similarly, if CentOS is selected.
-![](https://files.filterhost.net/index.php/s/J4ZSYiseTxgYSJz/preview)
+![8](https://files.filterhost.net/index.php/s/J4ZSYiseTxgYSJz/preview)
 
 Following this, the container will begin to be configured and set up.
-![](https://files.filterhost.net/index.php/s/77BcQdNQ79jwdEj/preview)
+![9](https://files.filterhost.net/index.php/s/77BcQdNQ79jwdEj/preview)
 
 Once completed, the container will be ready for use. The user should enter the provided command to log into the container.
-![](https://files.filterhost.net/index.php/s/Ec53d7dHcfkYntH/preview)
+![10](https://files.filterhost.net/index.php/s/Ec53d7dHcfkYntH/preview)
 
  
