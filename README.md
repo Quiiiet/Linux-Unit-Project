@@ -17,10 +17,12 @@ The Docker Container Setup project aims to provide an automated script for setti
 
 # Demo:
 The script will automatically download and install Docker.
-![1](https://files.filterhost.net/index.php/s/TqgZRg6HZKtxxon/preview)
+![The script will automatically download and install Docker.](https://files.filterhost.net/index.php/s/TqgZRg6HZKtxxon/preview)
+
 
 The script will ask the user which operating system is desired.
-![2](https://files.filterhost.net/index.php/s/rp82Rtx3NGbXStN/preview)
+![The script will ask the user which operating system is desired.](https://files.filterhost.net/index.php/s/rp82Rtx3NGbXStN/preview)
+
 
 Or, the user can select a custom image from Docker Hub.
 ![3](https://files.filterhost.net/index.php/s/zLKjWTdao974fFS/preview)
