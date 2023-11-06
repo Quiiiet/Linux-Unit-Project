@@ -16,7 +16,7 @@ The Docker Container Setup project aims to provide an automated script for setti
 - As a beginner in Docker, I want a user-friendly script that guides me through the process of creating and customizing Docker containers without requiring extensive knowledge of Docker commands.
 
 # Usage
-- chmod 777 ./DockerHelper.sh
+- chmod 777 DockerHelper.sh
 - ./DockerHelper.sh
   
 Note: The chmod command can be used in various ways. Choose the method that best suits your needs. Ensure that the user and group who will execute the script have execution permissions. This might include Linux users and Docker, Also, ensure that installDocker.sh is located in the same directory as the main script, DockerHelper.sh.
